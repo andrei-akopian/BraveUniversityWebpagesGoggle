@@ -2,7 +2,10 @@
 
 *A Goggle is a custom configuration for the [Brave Search Engine](https://search.brave.com/)*
 
-The idea is that university websites tend to host personal sites of students and professors which contain significantly better content than the modern web.
+[*Try USA only*](https://search.brave.com/goggles/profile?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fandrei-akopian%2FBraveUniversityWebpagesGoggle%2Fmaster%2Fusa_university_domains.goggle)
+[*Try Worldwide*](https://search.brave.com/goggles/profile?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fandrei-akopian%2FBraveUniversityWebpagesGoggle%2Fmaster%2Fworldwide_university_domains.goggle)
+
+The idea is that university websites tend to host personal sites of students and professors which contain significantly better content than the modern web. *But I don't think it's working that well...*
 
 This repository has 2 separate Goggles: 
 - USA only
@@ -24,6 +27,6 @@ The stuff I made is under MIT License, so is [Hipo's dataset](https://github.com
 
 # Some thoughts
 
-For higher quality results one could refine a list of "top" universities from around the world, and exclude any small ones.
+For higher quality results one could refine a list of "top" universities from around the world, and exclude any small ones. Also, when searching for general terms noname universities show up with their main websites, no personal webpages really show up... [Searching Hackernews still gives better results](https://hn.algolia.com/)
 
 Due to the language divide, a majority of entities on the list will never actually show up or contribute to the results. There is probably a better way to handele this caveat.
